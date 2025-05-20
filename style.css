@@ -4,6 +4,7 @@ body {
 }
 
 nav h2 {
+    font-size: 35;
     padding: 10px;
     border: 2px solid #F7F8FC;
     border-radius: 25px;
@@ -20,6 +21,7 @@ nav {
 }
 
 nav div {
+    font-size: 35px;
     text-align: center;
     margin: auto;
 }
