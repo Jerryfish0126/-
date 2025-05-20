@@ -1,5 +1,19 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('fonts/Roboto/Roboto-VariableFont_wdth,wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'WenKai';
+    src: url('fonts/LXGW_WenKai_TC/LXGWWenKaiTC-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
-    font-family: "LXGW WenKai TC", "Roboto", sans-serif;
+    font-family: "WenKai", "Roboto", sans-serif;
     background-color: #EEF2F6;
     overflow: hidden;
 }
