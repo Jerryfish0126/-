@@ -53,3 +53,9 @@ nav a:hover {
 section h1 {
     font-size: 75px;
 }
+
+.interest img {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
