@@ -15,7 +15,7 @@
 body {
     font-family: "WenKai", "Roboto", sans-serif;
     background-color: #EEF2F6;
-    overflow: hidden;
+    overflow: auto;
 }
 
 nav h2 {
@@ -71,7 +71,7 @@ section h1 {
 
 .interest img {
     width: auto;
-    height: auto;
+    height: 690px;
     display: block;
     margin: 0 100px;
 }
@@ -82,4 +82,8 @@ section h1 {
 
 .interest p {
     font-size: 50px;
+}
+
+h3 {
+    font-size: 35px;
 }
