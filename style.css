@@ -82,19 +82,39 @@
     }
     
     .interest p {
+        /*font-size */
         font-size: 50px;
     }
     
     h3 {
+        /*font-size */
         font-size: 40px;
     }
     
     .form {
+        /*font-size */
         font-size: 30px;
-        max-width: 1000px;
+        max-width: 1500px;
         word-wrap: break-word;
     }
     
-    .form li {
-        font-size: 30px;
+    .er img {
+        margin-left: 300px;
+    }
+    
+    .er div {
+        display: flex;
+    }
+    
+    .er h3 {
+        margin-left: 50px;
+    }
+    
+    .er img {
+        width: 1400px;
+        height: auto;
+    }
+    
+    .table {
+        margin: auto;
     }
