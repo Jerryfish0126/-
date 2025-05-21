@@ -85,15 +85,15 @@
     }
     
     h3 {
-        font-size: 35px;
+        font-size: 40px;
     }
     
-    .investigative {
-        font-size: 20px;
+    .form {
+        font-size: 30px;
         max-width: 1000px;
         word-wrap: break-word;
     }
     
-    .investigative li {
-        font-size: 25px;
+    .form li {
+        font-size: 30px;
     }
