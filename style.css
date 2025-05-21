@@ -93,3 +93,7 @@
         max-width: 1000px;
         word-wrap: break-word;
     }
+    
+    .investigative li {
+        font-size: 25px;
+    }
